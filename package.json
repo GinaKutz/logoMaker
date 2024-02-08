@@ -1,10 +1,15 @@
 {
+  "name": "logoMaker",
+  "version": "1.0.0",
+  "description": "A command-line application for generating SVG logos.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
-    "inquirer": "^9.2.14"
-  }
-
-  {
-    "type": "module"
-  }
-  
+    "inquirer": "^8.2.6"
+  },
+  "author": "Your Name",
+  "license": "MIT"
 }
